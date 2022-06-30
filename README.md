@@ -1,6 +1,6 @@
 ### About Me
 
-I’m a Research Associate for Economic Policy Studies at the American Enterprise Institute. My area of research includes federal tax and budget policy, labor economics, and financial markets. You can find me on [![Twitter][1.1]][1] or reach out via [email][2].
+I’m a Senior Research Associate for Economic Policy Studies at the American Enterprise Institute (AEI). My area of research includes federal tax and budget policy, labor economics, and financial markets. You can find me on [![Twitter][1.1]][1] or reach out via [email][2].
 
 My articles and research are available on my website [www.grantseiter.com][3].
 
