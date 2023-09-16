@@ -1,6 +1,6 @@
 ### About Me
 
-I’m a Senior Research Associate for Economic Policy Studies at the American Enterprise Institute (AEI) and an incoming Ph.D. student in Economics at the University of Virginia. My research focuses on public finance, particularly federal tax and budget policy, labor economics, and the economics of aging. You can find me on [![Twitter][1.1]][1] or reach out via [email][2].
+I’m a Ph.D. student in Economics at the University of Virginia. My research focuses on public finance, particularly federal tax and budget policy, labor economics, and the economics of aging. You can find me on [![Twitter][1.1]][1] or reach out via [email][2].
 
 My articles and research are available on my website [www.grantseiter.com][3].
 
