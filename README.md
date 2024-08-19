@@ -5,13 +5,6 @@ I’m a Ph.D. student in Economics at the University of Virginia. My research fo
 My articles and research are available on my website [www.grantseiter.com][3].
 
 <a href="https://github.com/grantseiter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grantseiter&show_icons=true&hide=contribs,prs&rank_icon=github" alt="GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/grantseiter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grantseiter&layout=compact"/>
 </a>
 
